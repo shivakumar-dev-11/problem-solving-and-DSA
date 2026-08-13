@@ -8,5 +8,3 @@ while i <= number :
         count+=i
     i+=1
 print(count)
-
-
